@@ -1,0 +1,2 @@
+# Spatiotemporal Forecasting of Cellular Growth Dynamics Using ConvLSTM-GAN Framework for Sequential Time-Lapse Microscopy
+This project presents an innovative deep learning ConvLSTM-GAN framework for spatiotemporal cell growth forecasting using time-lapse microscopy from the LiveCell dataset. Moving beyond static segmentation, it predicts continuous pixel-wise growth patterns of cells, combining temporal dynamics with biologically realistic frame generation.
